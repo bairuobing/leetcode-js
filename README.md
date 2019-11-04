@@ -1,3 +1,3 @@
 # Leetcode-js
 
-Javascript
+By:Javascript
